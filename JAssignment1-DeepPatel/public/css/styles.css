@@ -1,0 +1,24 @@
+.main-background {
+    width: 100%;
+    height: 90vh;
+    background-image: url('/img/background.png');
+    background-size: cover;
+}
+
+.text-container {
+    padding: 5em 10em;
+}
+
+.headline {
+    font-size: 3em;
+    color: #fff;
+    max-width: 450px;
+}
+
+.tagline {
+    padding: 1em 0;
+    font-size: 1em;
+    max-width: 550px;
+    color: #fff;
+    line-height: 1.5em;
+}
